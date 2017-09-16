@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Box Of T - Lab", "01. Box Of T - Lab\01. Box Of T - Lab.csproj", "{5C047BE4-1428-44A4-B433-73C3C6AEBF53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Generic Array Creator - Lab", "02. Generic Array Creator - Lab\02. Generic Array Creator - Lab.csproj", "{6A5088A9-C561-4F2A-849B-307188FB1502}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Generic Scale - Lab", "03. Generic Scale - Lab\03. Generic Scale - Lab.csproj", "{F3E51259-3168-4631-B2D7-C8D63B8899BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Generic Box", "1. Generic Box\1. Generic Box.csproj", "{5BB31458-2F5A-4C4C-A80B-6B310AD2CF24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Custom List", "2. Custom List\2. Custom List.csproj", "{8C684C2C-A722-402F-9A51-EDB164A11783}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Tuple", "3. Tuple\3. Tuple.csproj", "{3AE21ACA-E29F-4C52-B3B1-66290899B4EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Threeuple", "4. Threeuple\4. Threeuple.csproj", "{F561E239-5255-436E-B012-06773F374848}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C047BE4-1428-44A4-B433-73C3C6AEBF53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C047BE4-1428-44A4-B433-73C3C6AEBF53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C047BE4-1428-44A4-B433-73C3C6AEBF53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C047BE4-1428-44A4-B433-73C3C6AEBF53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A5088A9-C561-4F2A-849B-307188FB1502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A5088A9-C561-4F2A-849B-307188FB1502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A5088A9-C561-4F2A-849B-307188FB1502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5088A9-C561-4F2A-849B-307188FB1502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3E51259-3168-4631-B2D7-C8D63B8899BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E51259-3168-4631-B2D7-C8D63B8899BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E51259-3168-4631-B2D7-C8D63B8899BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E51259-3168-4631-B2D7-C8D63B8899BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BB31458-2F5A-4C4C-A80B-6B310AD2CF24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB31458-2F5A-4C4C-A80B-6B310AD2CF24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB31458-2F5A-4C4C-A80B-6B310AD2CF24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB31458-2F5A-4C4C-A80B-6B310AD2CF24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C684C2C-A722-402F-9A51-EDB164A11783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C684C2C-A722-402F-9A51-EDB164A11783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C684C2C-A722-402F-9A51-EDB164A11783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C684C2C-A722-402F-9A51-EDB164A11783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AE21ACA-E29F-4C52-B3B1-66290899B4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE21ACA-E29F-4C52-B3B1-66290899B4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE21ACA-E29F-4C52-B3B1-66290899B4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE21ACA-E29F-4C52-B3B1-66290899B4EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F561E239-5255-436E-B012-06773F374848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F561E239-5255-436E-B012-06773F374848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F561E239-5255-436E-B012-06773F374848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F561E239-5255-436E-B012-06773F374848}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
