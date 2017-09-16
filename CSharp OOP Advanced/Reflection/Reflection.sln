@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Stealer - Lab", "01. Stealer - Lab\01. Stealer - Lab.csproj", "{BB6FFB6C-791D-4606-9B67-CE5D15E40106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. High Quality Mistakes - Lab", "02. High Quality Mistakes - Lab\02. High Quality Mistakes - Lab.csproj", "{16E1BF30-928A-4239-9779-623EE6763B7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Mission Private Impossible - Lab", "03. Mission Private Impossible - Lab\03. Mission Private Impossible - Lab.csproj", "{883EC995-7F7E-483C-84EC-7D78025EAF85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Collector - Lab", "04. Collector - Lab\04. Collector - Lab.csproj", "{AAF0FFFD-57C5-4A65-846D-7FF1E7E3F79C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Harvesting Fields", "1. Harvesting Fields\1. Harvesting Fields.csproj", "{48E52D43-38B2-4BA5-B7C2-49DD3ED90E52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Black Box Integer", "2. Black Box Integer\2. Black Box Integer.csproj", "{54CC2711-7050-4E6C-9C0A-668988B5731B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Barracks Wars", "3. Barracks Wars\3. Barracks Wars.csproj", "{A8FEC7AB-6765-45D9-AFB9-2DB305EE2DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB6FFB6C-791D-4606-9B67-CE5D15E40106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB6FFB6C-791D-4606-9B67-CE5D15E40106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB6FFB6C-791D-4606-9B67-CE5D15E40106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB6FFB6C-791D-4606-9B67-CE5D15E40106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16E1BF30-928A-4239-9779-623EE6763B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E1BF30-928A-4239-9779-623EE6763B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E1BF30-928A-4239-9779-623EE6763B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E1BF30-928A-4239-9779-623EE6763B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{883EC995-7F7E-483C-84EC-7D78025EAF85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{883EC995-7F7E-483C-84EC-7D78025EAF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{883EC995-7F7E-483C-84EC-7D78025EAF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{883EC995-7F7E-483C-84EC-7D78025EAF85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAF0FFFD-57C5-4A65-846D-7FF1E7E3F79C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF0FFFD-57C5-4A65-846D-7FF1E7E3F79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF0FFFD-57C5-4A65-846D-7FF1E7E3F79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF0FFFD-57C5-4A65-846D-7FF1E7E3F79C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48E52D43-38B2-4BA5-B7C2-49DD3ED90E52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E52D43-38B2-4BA5-B7C2-49DD3ED90E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E52D43-38B2-4BA5-B7C2-49DD3ED90E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E52D43-38B2-4BA5-B7C2-49DD3ED90E52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54CC2711-7050-4E6C-9C0A-668988B5731B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54CC2711-7050-4E6C-9C0A-668988B5731B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54CC2711-7050-4E6C-9C0A-668988B5731B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54CC2711-7050-4E6C-9C0A-668988B5731B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8FEC7AB-6765-45D9-AFB9-2DB305EE2DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8FEC7AB-6765-45D9-AFB9-2DB305EE2DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8FEC7AB-6765-45D9-AFB9-2DB305EE2DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8FEC7AB-6765-45D9-AFB9-2DB305EE2DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
