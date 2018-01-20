@@ -1,6 +1,6 @@
 <h2 align="center"><font color="#b3c6ff"> CSharp-Fundamentals-SoftUni </font></h2>				
 
-<p align="center"> Containing homeworks and lab exercices from "CSharp Advanced", "CSharp OOP Basics" and "CSharp OOP Advanced" courses @ SoftUni September 2017 </p>
+<p align="center"> Containing homeworks and lab exercices from "CSharp Advanced", "CSharp OOP Basics" and "CSharp OOP Advanced" courses @ SoftUni December 2017 </p>
 
 <p align="center">
   <a href="https://softuni.bg/" target="_blank"><img src="http://codeweek-s3.s3.amazonaws.com/event_picture/SoftUni-Logo-Flat.png" width="400"/></a>
